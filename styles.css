@@ -1,0 +1,54 @@
+html {
+    background-color: darkorange;
+    text-align: center;
+}
+
+h1 {
+    color: gold;
+}
+
+p {
+    font-size: 50px;
+    color: gold;
+    text-align: center;
+}
+
+.firstquest {
+    display: none;
+}
+
+.ques1In {
+    vertical-align: top;
+    width: 300px;
+    height: 200px;
+    font-size: 50px;
+}
+
+.ques1butt {
+    font-size: 60px;
+    margin: 50px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.fruitquest {
+    display: none;
+}
+
+.fruitIn {
+    vertical-align: top;
+    width: 300px;
+    height: 200px;
+    font-size: 50px;
+}
+
+.fruitbutt {
+    font-size: 60px;
+    margin: 50px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.ans1 {
+    display: none;
+}
